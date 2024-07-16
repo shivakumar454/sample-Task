@@ -1,0 +1,72 @@
+.durga1{
+   display: flex;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.durga11{
+    width: 40%;
+   
+}
+.bulb{
+    width: 100px;
+}
+.p1{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.p3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.p4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+button{
+    border:2px solid #9B89FF;
+    border-radius: 3px;
+    padding: 13px 25px;
+    background-color: white;
+    font-size: 20px;
+}
+.image2{
+    width: 100%;
+    height: 99vh;
+}
+.durga12{
+    width: 50%;  
+}
+.durga2{
+    display: flex;
+    width: 100%; 
+    background: rgb(186,151,217);
+    background: linear-gradient(117deg, rgba(186,151,217,1) 16%, rgba(65,109,209,1) 100%);
+}
+.durga21{
+   border: 1px solid black;
+   background-color: white;
+    width: 30%;
+    margin-left: 10%;
+}
+.p21{
+    color: #816BFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;     
+}
+.p22{
+    color: #816BFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;  
+}
+.p23{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;  
+}
+.durga22{
+    border: 1px solid black;
+    width: 30%;
+ }
